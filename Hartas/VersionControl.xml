@@ -1,0 +1,16 @@
+<hartas>
+
+	<!-- VERSAO DO FIRMWARE (fw) DO ESP -->
+	<fwAutoUpdate>true</fwAutoUpdate>
+	<fwVersion>0.1</fwVersion>
+	<fwURL></fwURL>
+
+	<!-- VERSAO DO SPIFFS (fs) DO ESP -->	
+	<fsAutoUpdate>true</fsAutoUpdate>
+	<fsVersion>0.1</fsVersion>
+	<fsURL></fsURL>
+
+	<!-- ARQUIVO DE CONTROLE DE VERSAO -->	
+	<vcURL></vcURL>
+
+</hartas>
